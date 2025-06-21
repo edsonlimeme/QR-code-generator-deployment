@@ -30,7 +30,7 @@ A fully serverless QR Code Generator built using HTML, CSS, and JavaScript — d
 
 ## 🚀 Live Demo
 
-🌐 [View Live Site](http://qr-code-site-yourname.s3-website-region.amazonaws.com)
+🌐 [View Live Site](http://my-qr-code-generator.s3-website-us-east-1.amazonaws.com)
 
 ---
 
